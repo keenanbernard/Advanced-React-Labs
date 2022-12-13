@@ -25,16 +25,17 @@ const DessertsList = () => {
     },
   ];
 
-  const lowCalorieDesserts = list.filter(val => {return val.calories < 500}).sort((a,b)=> (a.calories > b.calories ? 1 : -1));
+  const lowCalorieDesserts = list.filter(val => {return val.calories < 500})
+    .sort((a,b)=> (a.calories > b.calories ? 1 : -1))
+    .map( x => {return (<li>{`${x.name} - ${x.calories} cal`}</li>)});
 
   return(
-    <ul>
-      {lowCalorieDesserts.map( x => {
-        return (
-          <li>{`${x.name} - ${x.calories} cal`}</li>
-        )
-      })}
-    </ul>
+    <div>
+      <h1>List of low calorie desserts</h1>
+      <ul>
+        {lowCalorieDesserts}
+      </ul>
+    </div>
   )
 }
 
