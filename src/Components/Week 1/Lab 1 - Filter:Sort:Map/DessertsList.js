@@ -27,7 +27,7 @@ const DessertsList = () => {
 
   const lowCalorieDesserts = list.filter(val => {return val.calories < 500})
     .sort((a,b)=> (a.calories > b.calories ? 1 : -1))
-    .map( x => {return (<li>{`${x.name} - ${x.calories} cal`}</li>)});
+    .map( x => {return (<li key={x.name}>{`${x.name} - ${x.calories} cal`}</li>)});
 
   return(
     <div>
