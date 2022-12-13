@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9b9fe1f-56c8-4167-abe2-f6fc43df6879" name="Changes" comment="Lab 1 of Week 1 - Map function" />
+    <list default="true" id="d9b9fe1f-56c8-4167-abe2-f6fc43df6879" name="Changes" comment="Lab 1 of Week 1 - Map function update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670945848465</updated>
       <workItem from="1670945852609" duration="1478000" />
-      <workItem from="1670962843560" duration="2841000" />
+      <workItem from="1670962843560" duration="3385000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1670946008699</created>
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670966185208</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lab 1 of Week 1 - Map function update">
+      <created>1670966589208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670966589210</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Lab 1 of Week 1 - Map function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 1 of Week 1 - Map function" />
+    <MESSAGE value="Lab 1 of Week 1 - Map function update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 1 of Week 1 - Map function update" />
   </component>
 </project>
