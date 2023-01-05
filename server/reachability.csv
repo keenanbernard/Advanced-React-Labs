@@ -1,0 +1,54 @@
+#EXTM3U,down
+#EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Undefined",1+1 (1080p),down
+https://hls.youtb.workers.dev/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8,up
+#EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-logo="https://i.imgur.com/tHVc8on.png" group-title="Sports",1+1 Спорт (720p) [Not 24/7],down
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8,up
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Undefined",1-2-3 TV (270p),down
+http://123tv-mx1.flex-cdn.net/index.m3u8,up
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",2A Network (720p),down
+https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8,up
+#EXTINF:-1 tvg-id="2M.ma" tvg-logo="https://i.imgur.com/AnKB6kC.png" group-title="Undefined",2M Monde (360p),down
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8,up
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",1TV (240p) [Geo-blocked],down
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8,up
+#EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="News",3/24,down
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8,up
+#EXTINF:-1 tvg-id="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Entertainment",2x2 (720p) [Not 24/7],down
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8,up
+#EXTINF:-1 tvg-id="4E.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/4E_TV_logo.png" group-title="Undefined",4E (720p),down
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8,up
+#EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Undefined",4FUN TV (576p) [Not 24/7],down
+https://stream.4fun.tv:8888/hls/4f.m3u8,up
+#EXTINF:-1 tvg-id="5AABTV.ca" tvg-logo="https://i.imgur.com/jrGrfof.png" group-title="Undefined",5AAB TV (720p) [Not 24/7],down
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8,up
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",5TV (Corrientes) (480p) [Not 24/7],down
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8,up
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",5-րդ ալիք (480p),down
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148,down
+http://ott-cdn.ucom.am/s6/index.m3u8,up
+#EXTINF:-1 tvg-id="4Kanal.ua" tvg-logo="https://i.imgur.com/JtqdPlY.png" group-title="Undefined",4 канал (1080p),down
+https://hls.youtb.workers.dev/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8,up
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",7 TeleValencia (576p),down
+https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8,up
+#EXTINF:-1 tvg-id="7NN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/7NN_TV.svg/512px-7NN_TV.svg.png" group-title="News",7 Noticias (1080p),down
+https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8,up
+#EXTINF:-1 tvg-id="7ALimoges.fr" tvg-logo="https://i.imgur.com/1ccTQ7Z.png" group-title="Undefined",7ALimoges (1080p) [Not 24/7],down
+https://hls.youtb.workers.dev/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8,up
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/512px-7TVRM.svg.png" group-title="Undefined",7 Televisión Región de Murcia (1080p),down
+https://hls.youtb.workers.dev/channel/UCXi-7dpQ1mnf8kxIVCe9mCA.m3u8,up
+#EXTINF:-1 tvg-id="8TVCatalunya.es" tvg-logo="https://i.imgur.com/5MgRUWR.png" group-title="Undefined",8 TV Catalunya (1080p),down
+https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8,up
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",8 La Marina TV (576p),down
+https://streaming005.gestec-video.com/hls/canal24.m3u8,down
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",12TV Alicante (720p),down
+https://cloud.streamingconnect.tv/hls/12tv/gcmin.m3u8,up
+#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9XM (480p),down
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8,up
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p),down
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8,up
+#EXTINF:-1 tvg-id="12TVParma.it" tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="General",12 TV Parma (540p) [Not 24/7],down
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8,up
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",13 Entretencion (720p),down
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8,up
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",13 Prime (720p),down
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8,up
