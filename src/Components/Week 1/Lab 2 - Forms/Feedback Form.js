@@ -12,6 +12,8 @@ const FeedbackForm = () => {
       return;
     }
     console.log("Success");
+    setScore("10");
+    setComment("")
   }
 
   return(

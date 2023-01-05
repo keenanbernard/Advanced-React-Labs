@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9b9fe1f-56c8-4167-abe2-f6fc43df6879" name="Changes" comment="Lab 1 of Week 1 - added keys">
-      <change afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 2 - Forms/Feedback Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 2 - Forms/Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 3 - Registration Form/RFORM.js" afterDir="false" />
+    <list default="true" id="d9b9fe1f-56c8-4167-abe2-f6fc43df6879" name="Changes" comment="added node">
+      <change afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 3 - Registration Form/RFORM.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Week 1/Lab 2 - Forms/Feedback Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 2 - Forms/Feedback Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Week 1/Lab 3 - Registration Form/RFORM.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 3 - Registration Form/RFORM.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -39,6 +40,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "16.17.0",
+    "javascript.nodejs.core.library.typings.version": "16.18.11",
+    "last_opened_file_path": "/Users/kbernard/Desktop/React Projects/advancedreact/server",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,6 +56,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$/Server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -127,11 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670969037938</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added node">
+      <created>1672935643376</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672935643376</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -149,6 +173,7 @@
     <MESSAGE value="Lab 1 of Week 1 - Map function" />
     <MESSAGE value="Lab 1 of Week 1 - Map function update" />
     <MESSAGE value="Lab 1 of Week 1 - added keys" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 1 of Week 1 - added keys" />
+    <MESSAGE value="added node" />
+    <option name="LAST_COMMIT_MESSAGE" value="added node" />
   </component>
 </project>

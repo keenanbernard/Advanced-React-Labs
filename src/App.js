@@ -1,14 +1,11 @@
 import './App.css';
-import DessertsList from "./Components/Week 1/Lab 1 - Filter:Sort:Map/DessertsList";
-import Form from "./Components/Week 1/Lab 2 - Forms/Form";
-import FeedbackForm from "./Components/Week 1/Lab 2 - Forms/Feedback Form";
-import LabTest from "./Components/Week 1/LabTest";
+import RFORM from "./Components/Week 1/Lab 3 - Registration Form/RFORM";
 
 
 function App() {
   return (
     <div className="App">
-      <LabTest />
+      <RFORM />
     </div>
   );
 }
