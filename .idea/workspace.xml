@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9b9fe1f-56c8-4167-abe2-f6fc43df6879" name="Changes" comment="added node">
+    <list default="true" id="d9b9fe1f-56c8-4167-abe2-f6fc43df6879" name="Changes" comment="Lab 3 Week 1 - Registration form completion">
       <change afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 3 - Registration Form/RFORM.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
@@ -148,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672935643376</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lab 3 Week 1 - Registration form completion">
+      <created>1672949137131</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672949137131</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +181,7 @@
     <MESSAGE value="Lab 1 of Week 1 - Map function update" />
     <MESSAGE value="Lab 1 of Week 1 - added keys" />
     <MESSAGE value="added node" />
-    <option name="LAST_COMMIT_MESSAGE" value="added node" />
+    <MESSAGE value="Lab 3 Week 1 - Registration form completion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 3 Week 1 - Registration form completion" />
   </component>
 </project>

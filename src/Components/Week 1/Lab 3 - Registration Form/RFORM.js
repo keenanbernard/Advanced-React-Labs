@@ -71,8 +71,10 @@ const RFORM = () =>{
             <label>
               Password <sup>*</sup>
             </label>
-            <input placeholder="Password" type="password" onChange={e => setPassword({value: e.target.value, isTouched: true})}/>
-            {password.value.length < 8 ? PasswordErrorMessage() : <></>}
+            <input placeholder="Password" type="password"
+                   onChange={e => setPassword({ ...password, value: e.target.value})}
+                   onBlur={() => setPassword({ ...password, isTouched: true})}/>
+            {password.value.length < 8 ? PasswordErrorMessage() : null}
           </div>
           <div className="Field">
             <label>
