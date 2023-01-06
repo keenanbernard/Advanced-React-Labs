@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9b9fe1f-56c8-4167-abe2-f6fc43df6879" name="Changes" comment="Lab 3 Week 1 - Registration form completion">
-      <change afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 3 - Registration Form/RFORM.css" afterDir="false" />
+    <list default="true" id="d9b9fe1f-56c8-4167-abe2-f6fc43df6879" name="Changes" comment="Lab 3 Week 1 - Registration form completion - onblur addition">
+      <change afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 4 - Use Context/Switch/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 4 - Use Context/Switch/Switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 4 - Use Context/ThemeContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 4 - Use Context/ThemePage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 4 - Use Context/ThemePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 4 - Use Context/UserContext/UserContext.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Week 1/Lab 2 - Forms/Feedback Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 2 - Forms/Feedback Form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Week 1/Lab 3 - Registration Form/RFORM.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Week 1/Lab 3 - Registration Form/RFORM.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Week 1/LabTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Week 1/NodeTest.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -35,33 +39,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "javascript.nodejs.core.library.configured.version": "16.17.0",
-    "javascript.nodejs.core.library.typings.version": "16.18.11",
-    "last_opened_file_path": "/Users/kbernard/Desktop/React Projects/advancedreact/server",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.17.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kbernard/Desktop/React Projects/advancedreact/server&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/server" />
       <recent name="$PROJECT_DIR$/Server" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/Week 1/Lab 4 - Use Context/UserContext" />
       <recent name="$PROJECT_DIR$/client" />
     </key>
   </component>
@@ -98,6 +103,7 @@
       <workItem from="1672845513908" duration="1258000" />
       <workItem from="1672850773533" duration="46000" />
       <workItem from="1672850844449" duration="3754000" />
+      <workItem from="1673016465656" duration="3251000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1670946008699</created>
@@ -155,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672949137131</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lab 3 Week 1 - Registration form completion - onblur addition">
+      <created>1672949505451</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672949505451</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +195,7 @@
     <MESSAGE value="Lab 1 of Week 1 - added keys" />
     <MESSAGE value="added node" />
     <MESSAGE value="Lab 3 Week 1 - Registration form completion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 3 Week 1 - Registration form completion" />
+    <MESSAGE value="Lab 3 Week 1 - Registration form completion - onblur addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 3 Week 1 - Registration form completion - onblur addition" />
   </component>
 </project>
