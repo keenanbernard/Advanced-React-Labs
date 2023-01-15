@@ -1,11 +1,11 @@
 import './App.css';
-import RFORM from "./Components/Week 1/Lab 3 - Registration Form/RFORM";
+import Goals from "./Components/Week 2/Lab 1 - useState Hook/GoalForm";
 
 
 function App() {
   return (
     <div className="App">
-      <RFORM />
+      <Goals />
     </div>
   );
 }
