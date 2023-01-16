@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9b9fe1f-56c8-4167-abe2-f6fc43df6879" name="Changes" comment="Week 1 - Lab 4 UseContext">
-      <change afterPath="$PROJECT_DIR$/src/Components/Week 2/Lab 1 - useState Hook/GoalForm.js" afterDir="false" />
+    <list default="true" id="d9b9fe1f-56c8-4167-abe2-f6fc43df6879" name="Changes" comment="Week 2 - Completed Goals Form">
+      <change afterPath="$PROJECT_DIR$/src/Components/Week 2/Lab 1 - useState Hook/GiftCard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -99,7 +99,8 @@
       <workItem from="1672850844449" duration="3754000" />
       <workItem from="1673016465656" duration="3291000" />
       <workItem from="1673034127146" duration="66000" />
-      <workItem from="1673747603189" duration="2302000" />
+      <workItem from="1673747603189" duration="2369000" />
+      <workItem from="1673835752722" duration="1337000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1670946008699</created>
@@ -171,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673019757450</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Week 2 - Completed Goals Form">
+      <created>1673751431089</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673751431089</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +208,7 @@
     <MESSAGE value="Lab 3 Week 1 - Registration form completion" />
     <MESSAGE value="Lab 3 Week 1 - Registration form completion - onblur addition" />
     <MESSAGE value="Week 1 - Lab 4 UseContext" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 1 - Lab 4 UseContext" />
+    <MESSAGE value="Week 2 - Completed Goals Form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 2 - Completed Goals Form" />
   </component>
 </project>
