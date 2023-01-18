@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9b9fe1f-56c8-4167-abe2-f6fc43df6879" name="Changes" comment="Week 2 - Completed Lab 1">
-      <change afterPath="$PROJECT_DIR$/src/Components/Week 2/Lab 2 - Fecth Data/FetchData.js" afterDir="false" />
+    <list default="true" id="d9b9fe1f-56c8-4167-abe2-f6fc43df6879" name="Changes" comment="Week 2 - Completed Lab 2/ refactoring">
+      <change afterPath="$PROJECT_DIR$/src/Components/Week 3/Lab 1 - Radio Group/LiveOrders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Week 3/Lab 1 - Radio Group/LoginButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Week 3/Lab 1 - Radio Group/Radio.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -101,7 +103,8 @@
       <workItem from="1673034127146" duration="66000" />
       <workItem from="1673747603189" duration="2369000" />
       <workItem from="1673835752722" duration="1994000" />
-      <workItem from="1673971617119" duration="866000" />
+      <workItem from="1673971617119" duration="4960000" />
+      <workItem from="1674060526816" duration="7155000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1670946008699</created>
@@ -187,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673837114328</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Week 2 - Completed Lab 2">
+      <created>1673972534677</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673972534677</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Week 2 - Completed Lab 2/ refactoring">
+      <created>1674053491398</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674053491398</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +235,8 @@
     <MESSAGE value="Week 1 - Lab 4 UseContext" />
     <MESSAGE value="Week 2 - Completed Goals Form" />
     <MESSAGE value="Week 2 - Completed Lab 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 2 - Completed Lab 1" />
+    <MESSAGE value="Week 2 - Completed Lab 2" />
+    <MESSAGE value="Week 2 - Completed Lab 2/ refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 2 - Completed Lab 2/ refactoring" />
   </component>
 </project>
