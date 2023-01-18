@@ -1,13 +1,11 @@
 import './App.css';
-import Goals from "./Components/Week 2/Lab 1 - useState Hook/GoalForm";
-import GiftCard from "./Components/Week 2/Lab 1 - useState Hook/GiftCard";
-import FetchData from "./Components/Week 2/Lab 2 - Fecth Data/FetchData";
+import Reducer from "./Components/Week 2/Lab 3 - useReducer Hook/useReducer";
 
 
 function App() {
   return (
     <div className="App">
-      <FetchData />
+      <Reducer />
     </div>
   );
 }
